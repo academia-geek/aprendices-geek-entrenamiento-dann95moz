@@ -1,6 +1,6 @@
-# Entrenamiento Academia Geek
+# Entregables Academia Geek
 
-<h3 align="center"><strong>!Bienvenidos a nuestro Campo de Entrenamiento Geek 🤖,  estamos muy a gusto en que seas parte de nuestra comunidad y poder apoyarte en tu crecimiento profesional en el maravilloso mundo del desarrollo del software!</strong></h3>
+<h3 align="center"><strong>!A continuación se muestran los ejercicios resueltos</strong></h3>
 
 En este campo de entrenamiento, encontraras un conjunto de lecciones y videos que te guiaran en tu proceso de formación para adquirir los conocimientos esenciales en las tres tecnologías esenciales (HTML, CSS, JavaScript) para convertirte en un desarrollador web. El curso está construido para ser desarrollado por módulos, cada uno de los módulos tiene   **Lecciones** -   📓   y    **Videos**  -   📺   sobre el contenido que vas a aprender.<br><br>
 
